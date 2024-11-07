@@ -55,7 +55,7 @@ pip install scikit-learn==1.5.2
     - 전처리한 변수 중 Pclass와 Fare를 이용하여 훈련 및 예측
 
 ### 결과
-[실제 Kaggle 제출 결과]('./submit_result.png')
+![실제 Kaggle 제출 결과](./submit_result.png)
 - 전처리한 데이터의 변수 전체로 예측한 결과: 0.78468
 - 전처리한 데이터의 변수 중 Pclass와 Fare로 예측한 결과: 0.67703
 
