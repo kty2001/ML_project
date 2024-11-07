@@ -13,6 +13,13 @@ https://nbviewer.org/github/kty2001/ML_project/blob/main/titanic_analysis.ipynb
 * [X] 문서 작성
 * [X] nbviewer 연결
 
+### 데이터 다운
+[Kaggle Titanic Dataset Link](https://www.kaggle.com/c/titanic/data)에서 데이터 다운로드
+- train.csv(훈련 데이터 csv) 필수
+- test.csv(예측 데이터 csv) 필수
+- gender_submission.csv(Kaggle 제출 형식 csv) 선택
+- 다운받은 모든 csv 파일을 data 디렉토리에 삽입
+
 ### 외부 라이브러리 설치
 ```bash
 python -V # 3.10.12
