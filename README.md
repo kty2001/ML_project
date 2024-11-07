@@ -1,5 +1,8 @@
 # 기계학습 및 실습 과제 - Titanic Data Analysis and Machine Learning Model Building
 
+## nbviewer Link
+https://nbviewer.org/github/kty2001/ML_project/blob/main/titanic_analysis.ipynb
+
 ### TODO 리스트
 * [X] 데이터 다운
 * [X] 필요 라이브러리 확인
