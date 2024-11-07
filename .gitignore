@@ -1,5 +1,7 @@
 .venv
 .ipynb_checkpoints
 
+data/*
+!data/.gitkeep
 outputs/*
 !outputs/.gitkeep
