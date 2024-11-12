@@ -29,6 +29,12 @@ pip install seaborn==0.13.2
 pip install scikit-learn==1.5.2
 ```
 
+or
+
+```bash
+pip install -r requirements.txt
+```
+
 ### 분석 목적
 - 각 변수 간의 상관관계 파악
 - Pclass와 Fare를 통하여 Survived를 예측
